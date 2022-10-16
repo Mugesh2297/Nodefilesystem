@@ -1,0 +1,18 @@
+{
+  "name": "nodejstask1",
+  "version": "1.0.0",
+  "description": "creating a text file ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^2.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
